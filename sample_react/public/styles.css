@@ -1,0 +1,35 @@
+.whole{
+    border: 3px solid silver;
+    width: 670px;
+    margin-left: 110px;
+    padding: 20px;
+    margin: auto;
+
+}
+img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display:inline-block;
+}
+h5{
+    display:inline-block;
+}
+button{
+    color:blue;
+    background-color:white;
+    border: 1px solid white;
+}
+button:hover{
+    text-decoration: underline;
+}
+.inbox{
+    display: flex ;
+}
+.inboxtext{
+    margin-left: 15px;
+}
+.inboxtext2{
+    width:430px;
+    color: rgb(139, 138, 138);
+}
